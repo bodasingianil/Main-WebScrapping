@@ -1,4 +1,4 @@
-# WebScrapping
+# Naukri - WebScrapping
 Web scrapping projects 
 The objective of this project is to scrape job 
 details from Naukri.com, a popular job portal in 
